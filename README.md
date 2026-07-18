@@ -101,3 +101,41 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Kcire2205/Kcire2205/output/github-contribution-grid-snake-dark.svg">
 </p>
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/Kcire2205">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/erick-pontes-prado-b5829340b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="kcire1420">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="[SEU_STEAM](https://steamcommunity.com/profiles/76561199677354626/)">
+<img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
+</a>
+
+</div>
+
+## 📚 Atualmente aprendendo
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+
+</div>
